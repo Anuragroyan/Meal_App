@@ -73,22 +73,27 @@ export const MEALS = [
   new Meal(
     "m3",
     ["c3"],
-    "Classic Hamburger",
-    "pricey",
+    "Toast Hawaii",
+    "afforadable",
     "simple",
-    "https://cdn.pixabay.com/photo/2014/10/23/18/05/burger-500054_1280.jpg",
-    45,
+    "https://cdn.pixabay.com/photo/2018/07/11/21/51/toast-3532016_1280.jpg",
+    10,
     [
-      "Form 2 patties",
-      "Fry the patties for c. 4 minutes on each side",
-      "Quickly fry the buns for c. 1 minute on each side",
-      "Bruch buns with ketchup",
-      "serve burger with tomato, cucumber and onion",
+      "1 Slice White Bread",
+      "1 Slice Ham",
+      "1 Slice Pineapple",
+      "1-2 Slices of Cheese",
+      "Butter",
+    ],
+    [
+      "Butter one side of the white bread",
+      "Layer ham, the pineapple and cheese on the white bread",
+      "Bake the toast for round about 10 minutes in the oven at 200°C",
     ],
     false,
     false,
     false,
-    true
+    false
   ),
   new Meal(
     "m4",
