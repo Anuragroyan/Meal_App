@@ -1,3 +1,54 @@
+🍽️ Meal Discovery App
+
+Meal Discovery App is a Flutter application that helps users discover meals through images, categories, and personalized preferences. The app uses Flutter Riverpod for efficient state management and follows a clean, organized application architecture to keep the codebase maintainable and the user experience smooth.
+
+✨ Key Features
+
+* 🍽️ Discover a variety of meals
+* 🖼️ Browse meals through images
+* 🗂️ Explore meals by categories
+* ❤️ Personalized meal preferences
+* 🔍 Search and explore meal options
+* 🔄 Reactive state management with Riverpod
+* 📱 Clean and responsive Flutter UI
+* 🧩 Organized application architecture
+* ⚡ Efficient UI updates
+* 🎯 User-focused meal discovery experience
+
+🏗️ Architecture & Workflow
+
+The application separates the user interface, application logic, and state management into an organized structure. Flutter Riverpod manages application state and ensures that UI components react efficiently to changes in meal data and user preferences.
+
+Users can browse meal categories, explore meal images, and discover options based on their preferences through a simple and intuitive workflow.
+
+🛠️ Tech Stack
+
+Flutter • Dart • Riverpod • State Management • Clean Architecture • Responsive UI
+
+▶️ Run the App
+
+1. Get Flutter dependencies
+
+flutter pub get
+
+2. Run the application
+
+flutter run
+
+3. Run on Android
+
+flutter run -d android
+
+4. Run on iOS
+
+flutter run -d ios
+
+🎯 Project Purpose
+
+This project demonstrates how to build a structured Flutter application using Riverpod for reactive state management. It provides practical experience with application architecture, state management, user preferences, category-based content discovery, responsive UI development, and maintaining a clean and scalable Flutter codebase.
+
+ScreenShots
+
 ![Screenshot_20240812-025348](https://github.com/user-attachments/assets/246cbcb3-c25f-44ae-858f-ce934422d0bc)
 ![Screenshot_20240812-025231](https://github.com/user-attachments/assets/1179af72-0eb0-4649-9f19-646e76ca6c8d)
 ![Screenshot_20240812-025235](https://github.com/user-attachments/assets/bb20d68e-7b14-4107-8b63-3e3e9fc1c8c1)
