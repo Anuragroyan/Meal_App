@@ -47,7 +47,7 @@ flutter run -d ios
 
 This project demonstrates how to build a structured Flutter application using Riverpod for reactive state management. It provides practical experience with application architecture, state management, user preferences, category-based content discovery, responsive UI development, and maintaining a clean and scalable Flutter codebase.
 
-ScreenShots
+ScreenShot
 
 ![Screenshot_20240812-025348](https://github.com/user-attachments/assets/246cbcb3-c25f-44ae-858f-ce934422d0bc)
 ![Screenshot_20240812-025231](https://github.com/user-attachments/assets/1179af72-0eb0-4649-9f19-646e76ca6c8d)
