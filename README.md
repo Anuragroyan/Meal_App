@@ -1,6 +1,6 @@
 🍽️ Meal Discovery App
 
-Meal Discovery App is a Flutter application that helps users discover meals through images, categories, and personalized preferences. The app uses Flutter Riverpod for efficient state management and follows a clean, organized application architecture to keep the codebase maintainable and the user experience smooth.
+Meal Discovery App is a React Native Expo application that helps users discover meals through images, categories, search, and personalized preferences. The app uses React Hooks for reactive state management and follows a clean, organized application architecture to keep the codebase maintainable and provide a smooth user experience across mobile platforms.
 
 ✨ Key Features
 
@@ -9,43 +9,47 @@ Meal Discovery App is a Flutter application that helps users discover meals thro
 * 🗂️ Explore meals by categories
 * ❤️ Personalized meal preferences
 * 🔍 Search and explore meal options
-* 🔄 Reactive state management with Riverpod
-* 📱 Clean and responsive Flutter UI
+* 🔄 Reactive state management with React Hooks
+* 📱 Clean and responsive React Native UI
 * 🧩 Organized application architecture
 * ⚡ Efficient UI updates
 * 🎯 User-focused meal discovery experience
 
 🏗️ Architecture & Workflow
 
-The application separates the user interface, application logic, and state management into an organized structure. Flutter Riverpod manages application state and ensures that UI components react efficiently to changes in meal data and user preferences.
+The application separates the user interface, application logic, data handling, and state management into an organized structure. React Hooks manage component state and application interactions, allowing UI components to react efficiently to changes in meal data and user preferences.
 
-Users can browse meal categories, explore meal images, and discover options based on their preferences through a simple and intuitive workflow.
+Users can browse meal categories, explore meal images, search for meals, and discover options based on their preferences through a simple and intuitive mobile workflow.
 
 🛠️ Tech Stack
 
-Flutter • Dart • Riverpod • State Management • Clean Architecture • Responsive UI
+React Native • Expo • JavaScript • React Hooks • State Management • Clean Architecture • Responsive UI
 
 ▶️ Run the App
 
-1. Get Flutter dependencies
+1. Install dependencies
 
-flutter pub get
+npm install
 
-2. Run the application
+2. Start the Expo development server
 
-flutter run
+npx expo start
 
 3. Run on Android
 
-flutter run -d android
+npx expo start --android
 
 4. Run on iOS
 
-flutter run -d ios
+npx expo start --ios
+
+5. Run on Web
+
+npx expo start --web
 
 🎯 Project Purpose
 
-This project demonstrates how to build a structured Flutter application using Riverpod for reactive state management. It provides practical experience with application architecture, state management, user preferences, category-based content discovery, responsive UI development, and maintaining a clean and scalable Flutter codebase.
+This project demonstrates how to build a structured React Native application using Expo and React Hooks for reactive state management. It provides practical experience with application architecture, state management, user preferences, category-based content discovery, search functionality, responsive UI development, and maintaining a clean and scalable React Native codebase.
 
 ScreenShot
 
